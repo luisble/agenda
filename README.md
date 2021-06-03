@@ -5,9 +5,9 @@
 Base SQlITE3
 
 Admin<br>
-<code>usr luisble<br>
-pwd Minh@Agenda123</code><br>
+<code>usr luisble</code><br>
+<code>pwd Minh@Agenda123</code><br>
 
 User Read Only<br>
-<code>usr UsuarioReadOnly<br>
-pwd Minh@Agenda123</code><br>
+<code>usr UsuarioReadOnly</code><br>
+<code>pwd Minh@Agenda123</code><br>
