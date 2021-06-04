@@ -2,7 +2,7 @@
 
 **Projeto de Agenda utilizando Python e Django**
 
-Base SQlITE3
+Base SQLITE3
 
 Admin<br>
 <code>usr luisble</code><br>

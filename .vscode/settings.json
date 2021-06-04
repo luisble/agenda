@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\USUARIO\\Google Drive\\Desenv\\Python\\DigitalInnovationOne\\venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\USUARIO\\Google Drive\\Desenv\\Python\\DigitalInnovationOne\\venv\\Scripts\\python.exe",
+    "files.autoSave": "afterDelay"
 }
