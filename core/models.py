@@ -27,4 +27,11 @@ class Evento(models.Model):
 
     def get_evento_atrasado(self):
         return self.data_evento < datetime.now()
+
+    def get_evento_proximo(self):
+        hora_atual = datetime.now()
+        if self.data_evento > hora_atual and self.data_evento <= hora_atual + timedelta(hours=1):
+            return True
+        else:
+            return False
         
